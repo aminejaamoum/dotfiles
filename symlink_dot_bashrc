@@ -1,5 +1,6 @@
 dotfiles/.bashrc
 
+cat $HOME/.dotfiles/.logging_msg
 # Amar Paul's .bashrc
 # 	Login shells:							.bash_profile
 #	nonlogin (i.e. open shell once in):		.bashrc
