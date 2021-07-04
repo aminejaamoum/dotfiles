@@ -1,4 +1,3 @@
-dotfiles/.bashrc
 
 cat $HOME/.dotfiles/.logging_msg
 # Amar Paul's .bashrc
